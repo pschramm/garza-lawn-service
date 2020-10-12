@@ -130,14 +130,14 @@ Often a homepage requires special meta tags such as a meta description or og met
 // config.toml
   [params.homepage_meta_tags]
     meta_description = "a description of your website."
-    meta_og_title = "My Theme"
+    meta_og_title = "Austin Lawn Guys"
     meta_og_type = "website"
     meta_og_url = "https://www.mywebsite.com"
     meta_og_image = "https://www.mywebsite.com/images/tn.png"
-    meta_og_description = "a description of your website."
+    meta_og_description = "Austin Lawns website."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@mytwitterhandle"
-    meta_twitter_creator = "@mytwitterhandle"
+    meta_twitter_site = "@austinlawnguys"
+    meta_twitter_creator = "@austinlawnguys"
 ```
 
 ### Override meta tags on a per layout basis
