@@ -11,7 +11,7 @@ title = "Austin Lawn Guys"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo.svg"
     desktop = "images/logo/logo.svg"
     desktop_height = "80px"
     alt = "Austin Lawn Guys"
