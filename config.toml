@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Austin Lawn Guys"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -14,7 +14,7 @@ title = "Hugo Serif Theme"
     mobile = "images/logo/logo-mobile.svg"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Austin Lawn Guys"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
@@ -28,7 +28,7 @@ title = "Hugo Serif Theme"
     meta_twitter_creator = "@zerostaticio"
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'Austin Lawn Guys 2020'
 
 [menu]
   # Main Menu
@@ -36,11 +36,6 @@ title = "Hugo Serif Theme"
     name = "Services"
     url = "/services/"
       weight = 1
-
-  [[menu.main]]
-      name = "Team"
-      url = "/team/"
-      weight = 2
 
   # Footer Menu
   [[menu.footer]]
