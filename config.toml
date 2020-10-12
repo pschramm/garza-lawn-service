@@ -14,21 +14,21 @@ title = "SAULS QUALITY SERVICE"
     mobile = "images/logo/sauls.png"
     desktop = "images/logo/sauls.png"
     desktop_height = "80px"
-    alt = "Austin Lawn Guys"
+    alt = "Austin Lawn"
 
   [params.homepage_meta_tags]
-    meta_description = "Austin Lawn Guys - Local yard and landscape services "
-    meta_og_title = "Austin Lawn Services"
+    meta_description = "Austin Lawns - Local yard and landscape services "
+    meta_og_title = "Austin Lawns"
     meta_og_type = "website"
     meta_og_url = "https://austinlawn.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Austin Lawn Guys - Local yard and landscape services"
+    meta_og_description = "Austin Lawns - Local yard and landscape services"
     meta_twitter_card = "summary"
     meta_twitter_site = "@pop2"
     meta_twitter_creator = "@pop2"
 
   [params.footer]
-    copyright_text = 'Austin Lawn Guys 2020'
+    copyright_text = 'Austin Lawns 2020'
 
 [menu]
   # Main Menu
