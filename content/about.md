@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 menu: 'main'
 ---
-## We are Saul's Quality Service
+## We are Garza Family Lawn Service
 
 
 Take back your weekends and leave the mowing to us! No matter what your budget is, we are here to keep your lawn green and looking beautiful.

@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "SAULS QUALITY SERVICE"
+title = "Garza Family Lawn Care"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -11,24 +11,24 @@ title = "SAULS QUALITY SERVICE"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/logo/sauls.png"
-    desktop = "images/logo/sauls.png"
+    mobile = "images/logo/garza.png"
+    desktop = "images/logo/garza.png"
     desktop_height = "80px"
-    alt = "Austin Lawn"
+    alt = "Garza Family Lawn Care"
 
   [params.homepage_meta_tags]
-    meta_description = "Austin Lawns - Local yard and landscape services "
-    meta_og_title = "Austin Lawns"
+    meta_description = "Garza Family Lawn Care - Local yard and landscape services "
+    meta_og_title = "Garza Family Lawn Care"
     meta_og_type = "website"
     meta_og_url = "https://austinlawn.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Austin Lawns - Local yard and landscape services"
+    meta_og_description = "Garza Family Lawns - Local yard and landscape services"
     meta_twitter_card = "summary"
     meta_twitter_site = "@pop2"
     meta_twitter_creator = "@pop2"
 
   [params.footer]
-    copyright_text = 'Austin Lawns 2020'
+    copyright_text = 'Garza Family Lawn Care 2020'
 
 [menu]
   # Main Menu
