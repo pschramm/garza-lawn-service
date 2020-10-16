@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "We will come to you and provide a full & obligation free consultation and quote.",
-    "image": "images/features/lawn.svg"
-  },
-  {
-    "title": "Commercial Landscape Services",
-    "description": "We will work together with your business to create the perfect plan for you.",
+    "title": "Residential & Commercial Landscape Services",
+    "description": "The best affordable Residential lawn care & Maintenance services in Austin TX for 2020",
     "image": "images/features/shrub.svg"
   },
   {
-    "title": "Yard, Shrub and Tree Cleanups",
-    "description": "Don't let the weeds gain control of your yard, let us take care of your all your Lawn and Clean Up needs!",
+    "title": "Free Consultation and Advice",
+    "description": "We will come to you and provide a complete obligation free consultation and price quote.",
+    "image": "images/features/lawn.svg"
+  },
+  {
+    "title": "Complete Yard, Shrub and Tree Cleanup and Maintenance",
+    "description": "Don't let the weeds and shurbs gain control of your yard, let us take care of your all your Lawn and Clean Up needs!",
     "image": "images/features/tree.svg"
   }
 ]
