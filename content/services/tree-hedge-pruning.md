@@ -5,4 +5,6 @@ featured: true
 draft: false
 weight: 4
 ---
+![Tree and Hedge Services](/images/illustrations/trees.jpg)
+
 Tree Removal and Brush Trim. Professionally pruned trees will enhance the beauty of your property in addition to just being more attractive themselves. Trees and shrubs that bloom in spring are best pruned soon after they finish blooming, which will stimulate greater flowering the next bloom season, helping the new shoots fully grow in.
