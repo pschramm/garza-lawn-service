@@ -6,7 +6,7 @@ featured: true
 weight: 1
 ---
 
-Having your lawn properly & regularly mowed is one of the most important things to do to keep it healthy.
+Mowing, Blower Cleanup, Power Washing, Junk Cleanups, Fencing Repairs, Hauls, Acres, etc!
 
 ![Lawn Services](/images/illustrations/yard.jpg)
 
