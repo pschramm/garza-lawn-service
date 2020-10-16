@@ -1,3 +1,4 @@
+
 <div class="footer">
   <div class="container">
     <div class="row">
@@ -5,8 +6,11 @@
         <div class="footer-inner">
           <h3 class="footer-title">{{.Site.Title}}</h3>
           <ul>
+            <li>
+                <div class="call-phone"><strong>Call Us Now</strong>  <a href="tel:512-765-3834">512-765-3834</a> </div>
+            </li>
             {{ $currentPage := . }}
-            {{ range .Site.Menus.footer }}
+            {{ range .Site.Menus.footer }}            
             <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
               <a href="{{.URL}}">
                 {{ .Name }}
