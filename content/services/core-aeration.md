@@ -1,5 +1,5 @@
 ---
-title: "Core Aeration"
+title: "Seeding and Core Aeration"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
