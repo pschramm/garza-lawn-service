@@ -17,17 +17,17 @@ title = "Garza Family Lawn Care"
     alt = "Garza Family Lawn Care"
 
   [params.homepage_meta_tags]
-    meta_description = "Garza Family Lawn Care - Local yard and landscape services "
+    meta_description = "Garza Family Lawn Care - Austin yard and landscape services "
     meta_og_title = "Garza Family Lawn Care"
     meta_og_type = "website"
     meta_og_url = "https://austinlawn.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Garza Family Lawns - Local yard and landscape services"
+    meta_og_image = "https://garzafamilylawns.netlify.app/images/illustrations/yard-maintenance-businesses.svg"
+    meta_og_description = "Garza Family Lawn Care - Local yard and landscape services"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@pop2"
-    meta_twitter_creator = "@pop2"
+    meta_twitter_site = "@garzafamilylawncare"
+    meta_twitter_creator = "@garzafamilylawncare"
 
-  [params.footer]
+  [garzafamilylawncarearams.footer]
     copyright_text = 'Garza Family Lawn Care 2020'
 
 [menu]
