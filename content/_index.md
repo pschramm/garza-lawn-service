@@ -1,8 +1,8 @@
 ---
 title: 'Home'
 intro_image: "images/illustrations/dad.jpg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
 # Honest and Local. Call Us now! 
